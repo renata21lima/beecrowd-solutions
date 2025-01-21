@@ -1,2 +1,2 @@
-# python-beecrowd_solu-es
+# python-beecrowd
 Exercícios do Beecrowd envolvendo Python
