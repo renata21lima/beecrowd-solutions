@@ -8,6 +8,7 @@
 Este repositório contém soluções para exercícios do **Beecrowd**, organizados em duas linguagens principais: **Python** e **Java**. As soluções estão organizadas por pastas para facilitar a navegação e o uso.
 
 
+<<<<<<< HEAD
 ---
 
 ## Exercícios Beecrowd
@@ -17,3 +18,5 @@ Este repositório contém soluções para exercícios do **Beecrowd**, organizad
 | 1001      | **Exemplo de entrada e saída** | [Solução em Python](./python/1001%20-%20Extremamente%20Básico.py) | [Solução em Java](./java/1001%20-%20Extremamente%20Básico/Main1001.java) |
 
 ---
+=======
+>>>>>>> 093a943b8d51e89ae1f406540da835c24db05bce
