@@ -11,6 +11,6 @@ Este repositório contém soluções para exercícios do **Beecrowd**, organizad
 
 ## Exercícios Beecrowd
 
-| Exercício | Enunciado | Python | Java |
+| Exercício | Enunciado | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo" /> |
 |-----------|-----------|--------|------|
-| 1001      | **Exemplo de entrada e saída** | [Solução em Python](./python/1001%20-%20Extremamente%20Básico.py) | [Solução em Java](./java/1001%20-%20Extremamente%20Básico/Main1001.java) |
+| 1001      | **Extremamente Básico** | [Solução em Python](./python/1001%20-%20Extremamente%20Básico.py) | [Solução em Java](./java/1001%20-%20Extremamente%20Básico/Main1001.java) |
