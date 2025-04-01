@@ -14,4 +14,4 @@ Este repositório contém soluções para exercícios do **Beecrowd**, organizad
 |-----------|-----------|--------|------|
 | 1001      | **Extremamente Básico** | [Solução em Python](./python/1001%20-%20Extremamente%20Básico.py) | [Solução em Java](./java/1001%20-%20Extremamente%20Básico/Main1001.java) |
 | 1002      | **Área do Circulo** | [Solução em Python](./python/1002%20-%20Área%20do%20Cículo.py) | [Solução em Java](./java/1002%20-%20Área%20do%20Cículo/Main1002.java) |
-
+| 1003      | **Soma Simples** | [Solução em Python](./python/1003%20-%20Soma%20Simples.py) | [Solução em Java](./java/1003%20-%20Soma%20Simples/Main1003.java) |
