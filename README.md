@@ -6,17 +6,12 @@
 </p>
 
 Este repositório contém soluções para exercícios do **Beecrowd**, organizados em duas linguagens principais: **Python** e **Java**. As soluções estão organizadas por pastas para facilitar a navegação e o uso.
-
-
-<<<<<<< HEAD
 ---
 
 ## Exercícios Beecrowd
 
 | Exercício | Enunciado | Python | Java |
 |-----------|-----------|--------|------|
-| 1001      | **Exemplo de entrada e saída** | [Solução em Python](./python/1001%20-%20Extremamente%20Básico.py) | [Solução em Java](./java/1001%20-%20Extremamente%20Básico/Main1001.java) |
-
----
-=======
->>>>>>> 093a943b8d51e89ae1f406540da835c24db05bce
+| 1001      | **Extremamente Básico** | [Solução em Python](./python/1001%20-%20Extremamente%20Básico.py) | [Solução em Java](./java/1001%20-%20Extremamente%20Básico/Main1001.java) |
+|-----------|-----------|--------|------|
+| 1002      | **Área do Circulo** | [Solução em Python](./python/1002%20-%20Área%20do%20Cículo.py) | [Solução em Java](./java/1002%20-%20Área%20do%20Cículo/Main1002.java) |
