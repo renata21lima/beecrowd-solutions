@@ -10,8 +10,10 @@ Este repositório contém soluções para exercícios do **Beecrowd**, organizad
 
 ## Exercícios Beecrowd
 
-| Exercício | Enunciado | Python | Java |
+| Exercício | Enunciado | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" /> |
 |-----------|-----------|--------|------|
 | 1001      | **Extremamente Básico** | [Solução em Python](./python/1001%20-%20Extremamente%20Básico.py) | [Solução em Java](./java/1001%20-%20Extremamente%20Básico/Main1001.java) |
 |-----------|-----------|--------|------|
 | 1002      | **Área do Circulo** | [Solução em Python](./python/1002%20-%20Área%20do%20Cículo.py) | [Solução em Java](./java/1002%20-%20Área%20do%20Cículo/Main1002.java) |
+=======
+
