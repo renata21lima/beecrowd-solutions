@@ -13,4 +13,5 @@ public class Main1001{
         System.out.printf("X = %d\n", X);
         scan.close();
     }
+    
 }
