@@ -17,3 +17,5 @@ Este repositório contém soluções para exercícios do **Beecrowd**, organizad
 | 1003      | **Soma Simples** | [Solução em Python](./python/1003%20-%20Soma%20Simples.py) | [Solução em Java](./java/1003%20-%20Soma%20Simples/Main1003.java) |
 | 1004      | **Produto Simples** | [Solução em Python](./python/1004%20-%20Produto%20Simples.py) | [Solução em Java](./java/1004%20-%20Produto%20Simples/Main1004.java) |
 | 1005      | **Média 1** | [Solução em Python](./python/1005%20-%20Média%201.py) | [Solução em Java](./java/1005%20-%20Média%201/Main1005.java) |
+| 1006      | **Média 2** | [Solução em Python](./python/1006%20-%20Média%202.py) | [Solução em Java](./java/1006%20-%20Média%202/Main1006.java) |
+| 1007      | **Diferença** | [Solução em Python](./python/1007%20-%20Diferença.py) | [Solução em Java](./java/1007%20-%20Diferença/Main1007.java) |
