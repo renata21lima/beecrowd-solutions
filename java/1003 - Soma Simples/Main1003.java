@@ -3,13 +3,13 @@ import java.util.Scanner;
 public class Main1003 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int a, b, soma;
+        int A, B, X;
 
-        a = scan.nextInt();
-        b = scan.nextInt();
+        A = scan.nextInt();
+        B = scan.nextInt();
 
-        soma = a + b;
-        System.out.printf("SOMA = %d%n", soma);
+        X = A + B;
+        System.out.printf("X = %d%n", X);
 
         scan.close();
     }
