@@ -8,6 +8,7 @@ public class Main1006{
         A = scan.nextDouble();
         B = scan.nextDouble();
         C = scan.nextDouble();
+        
         MEDIA = ((A*2) + (B*3) + (C*5)) / 10;
         System.out.printf("MEDIA = %.1f\n", MEDIA);
         scan.close();
