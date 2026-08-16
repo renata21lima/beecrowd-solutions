@@ -22,7 +22,6 @@ public class Main {
         System.out.printf("QUADRADO: %.3f\n", area_quadrado);
         System.out.printf("RETANGULO: %.3f\n", area_retangulo);
         
- 
     }
  
 }
