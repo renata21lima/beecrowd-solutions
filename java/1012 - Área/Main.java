@@ -2,8 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Main {
- 
-    public static void main(String[] args) throws IOException {
+        public static void main(String[] args) throws IOException {
         Scanner scan = new Scanner(System.in);
         double A,B,C;
         A = scan.nextDouble();
@@ -23,5 +22,4 @@ public class Main {
         System.out.printf("RETANGULO: %.3f\n", area_retangulo);
         
     }
- 
 }
