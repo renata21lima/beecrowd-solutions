@@ -22,3 +22,4 @@ Este repositório contém soluções para exercícios do **Beecrowd**, organizad
 | 1008      | **Salário** | [Solução em Python](./python/1008%20-%20Salário.py) | [Solução em Java](./java/1008%20-%20Salário/Main1008.java) |
 | 1009      | **Salário Bônus** | [Solução em Python](./python/1009%20-%20Salário%20com%20Bônus.py) | [Solução em Java](./java/1009%20-%20Salário%20Bônus/Main1009.java) |
 | 1010     | **Cálculo Simples** | [Solução em Python](./python/1010%20-%20Cálculo%20Simples.py) | [Solução em Java](./java/1010%20-%20Cálculo%20Simples/Main1010.java) |
+| 1011     | **Esfera** | [Solução em Python](./python/1011%20-%20Esfera.py) | [Solução em Java](./java/1011%20-%20Esfera/Main1011.java) |
